@@ -1,0 +1,348 @@
+.card1{
+    margin-top: 1rem;
+    margin-left: -50rem;
+    height: 30rem;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+.card-image {
+    margin-top: 0.5rem;
+    position: relative;
+    height: 20rem;
+    width: 20rem;
+    padding: 3px;
+}
+.card-image .card-img {
+    height: 100%;
+    width: 100%;
+    border-radius: 2rem;
+    border: 4px solid #4070F4;
+}
+.card-body {
+    font-family: sans-serif;
+}
+.card-body h5 {
+    color: brown;
+}
+.card-body span {
+    color: gray;
+    font-size: 1rem;
+}
+.card2{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    position: relative;
+    height: 40rem;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card3{
+    margin-top: 1rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card4{
+    margin-top: 45rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card5{
+    margin-top: 45rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card6{
+    margin-top: 45rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card7{
+    margin-top: 90rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card8{
+    margin-top: 90rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card9{
+    margin-top: 90rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card10{
+    margin-top: 135rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card11{
+    margin-top: 135rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card12{
+    margin-top: 135rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card13{
+    margin-top: 180rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card14{
+    margin-top: 180rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card15{
+    margin-top: 180rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card16{
+    margin-top: 225rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card17{
+    margin-top: 225rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card18{
+    margin-top: 225rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card19{
+    margin-top: 270rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card20{
+    margin-top: 270rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card21{
+    margin-top: 270rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card22{
+    margin-top: 315rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card23{
+    margin-top: 315rem;
+    margin-left: 2rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card24{
+    margin-top: 315rem;
+    margin-left: 53rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
+
+.card25{
+    margin-top: 360rem;
+    margin-left: -50rem;
+    height: 30 rem;
+    position: absolute;
+    align-items: center;
+    width: 21rem;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;    border-radius: 10px;
+    padding: 0px 26px 2rem 26px;
+    background-color: white;
+    border-radius: 25px;
+}
